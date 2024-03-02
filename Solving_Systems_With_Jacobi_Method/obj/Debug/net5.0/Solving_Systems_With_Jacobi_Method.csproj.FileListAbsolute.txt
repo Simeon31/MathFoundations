@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.exe
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.deps.json
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.runtimeconfig.json
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\ref\Solving_Systems_With_Jacobi_Method.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\bin\Debug\net5.0\Solving_Systems_With_Jacobi_Method.pdb
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\ref\Solving_Systems_With_Jacobi_Method.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.pdb
+C:\Users\Computer\source\repos\Solving_Systems_With_Jacobi_Method\obj\Debug\net5.0\Solving_Systems_With_Jacobi_Method.genruntimeconfig.cache

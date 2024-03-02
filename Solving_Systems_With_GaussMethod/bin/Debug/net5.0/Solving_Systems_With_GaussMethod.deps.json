@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Solving_Systems_With_GaussMethod/1.0.0": {
+        "runtime": {
+          "Solving_Systems_With_GaussMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solving_Systems_With_GaussMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

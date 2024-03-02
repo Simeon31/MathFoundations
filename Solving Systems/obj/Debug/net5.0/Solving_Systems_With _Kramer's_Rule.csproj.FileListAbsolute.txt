@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.exe
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.deps.json
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.runtimeconfig.json
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.dll
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\ref\Solving_Systems_With _Kramer's_Rule.dll
+C:\Users\Computer\source\repos\Solving Systems\bin\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.pdb
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.dll
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\ref\Solving_Systems_With _Kramer's_Rule.dll
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.pdb
+C:\Users\Computer\source\repos\Solving Systems\obj\Debug\net5.0\Solving_Systems_With _Kramer's_Rule.genruntimeconfig.cache

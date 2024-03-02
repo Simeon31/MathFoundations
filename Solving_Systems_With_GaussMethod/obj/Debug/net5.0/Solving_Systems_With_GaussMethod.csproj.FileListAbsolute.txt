@@ -1,0 +1,16 @@
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.exe
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.deps.json
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.runtimeconfig.json
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.runtimeconfig.dev.json
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\ref\Solving_Systems_With_GaussMethod.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\bin\Debug\net5.0\Solving_Systems_With_GaussMethod.pdb
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\ref\Solving_Systems_With_GaussMethod.dll
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.pdb
+C:\Users\Computer\source\repos\Solving_Systems_With_GaussMethod\obj\Debug\net5.0\Solving_Systems_With_GaussMethod.genruntimeconfig.cache
